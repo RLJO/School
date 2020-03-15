@@ -2,3 +2,8 @@
 	path = NewRL/openeducat_erp
 	url = git@github.com:NewRL/openeducat_erp.git
 	branch = 12.0
+
+[submodule "NewRL/openeducat_erp2"]
+	path = NewRL/openeducat_erp2
+	url = git@github.com:NewRL/openeducat_erp.git
+	branch = 13.0
