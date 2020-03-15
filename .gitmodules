@@ -1,0 +1,4 @@
+[submodule "NewRL/horizon"]
+	path = NewRL/horizon
+	url = git@github.com:NewRL/horizon.git
+	branch = 12.0
