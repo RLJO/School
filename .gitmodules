@@ -1,0 +1,4 @@
+[submodule "NewRL/openeducat_erp"]
+	path = NewRL/openeducat_erp
+	url = git@github.com:NewRL/openeducat_erp.git
+	branch = 12.0
