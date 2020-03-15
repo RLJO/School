@@ -2,3 +2,8 @@
 	path = NewRL/horizon
 	url = git@github.com:NewRL/horizon.git
 	branch = 12.0
+
+[submodule "NewRL/horizon0"]
+	path = NewRL/horizon0
+	url = git@github.com:NewRL/horizon.git
+	branch = 12.0
